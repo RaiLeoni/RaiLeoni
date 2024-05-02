@@ -1,16 +1,6 @@
-### Hi there 👋
+### Olá, bem vindo👋
 
-<!--
 **RaiLeoni/RaiLeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou um estudante que gosta muito de jogos, música e rpg no geral. Eu sei o básico de programação JAVA e vou deixar os meus projetos escolares aqui :)
 
-- 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning School
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: ...
--->
